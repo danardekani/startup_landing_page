@@ -25,3 +25,17 @@ p {
   text-align: center;
   padding-top: 10px;
 }
+
+.join-us {
+  height: 200px;
+  position: relative;
+}
+
+.join {
+  margin: 0;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 70%;
+}
