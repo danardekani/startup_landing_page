@@ -9,8 +9,9 @@ body {
   background-image: url("desert.jpg");
   background-position: center;
   background-size: cover;
-  height: 500px;
   background-repeat: no-repeat;
+  position: relative;
+  height: 500px;
 }
 
 h1 {
