@@ -4,3 +4,23 @@ html {
   height: 100%;
   font-family: 'Montserrat', sans-serif;
 }
+
+body {
+  background-image: url("desert.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding-top: 350px;
+}
+
+p {
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+}
