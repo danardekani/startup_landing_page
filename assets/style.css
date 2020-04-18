@@ -26,6 +26,12 @@ h5 {
   padding-top: 10px;
 }
 
+hr {
+  border-color: #865d63;
+  opacity: 60%;
+  border-width: 3px;
+  max-width: 500px
+}
 .join-us {
   height: 200px;
   position: relative;
@@ -42,10 +48,11 @@ h5 {
 
 .btn-xl {
   padding: .6rem 1.5rem;
+  border-radius: 220px;
 }
 
 footer {
   text-align: center;
-  padding-top: 100px;
+  padding-top: 90px;
   color: white;
 }
