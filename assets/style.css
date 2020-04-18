@@ -15,13 +15,13 @@ body {
 }
 
 h1 {
-  color: white;
+  color: #0c838a;
   text-align: center;
   padding-top: 350px;
 }
 
-p {
-  color: white;
+h5 {
+  color: #0c838a;
   text-align: center;
   padding-top: 10px;
 }
@@ -38,4 +38,10 @@ p {
   left: 50%;
   transform: translate(-50%, -50%);
   opacity: 70%;
+}
+
+footer {
+  text-align: center;
+  padding-top: 100px;
+  color: white;
 }
