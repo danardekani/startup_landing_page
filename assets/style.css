@@ -40,6 +40,10 @@ h5 {
   opacity: 70%;
 }
 
+.btn-xl {
+  padding: .6rem 1.5rem;
+}
+
 footer {
   text-align: center;
   padding-top: 100px;
